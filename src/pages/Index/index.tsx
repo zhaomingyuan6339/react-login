@@ -1,5 +1,8 @@
 export default function Index() {
   return (
-    <h2>首页</h2>
+    <div>
+      <h2>首页</h2>
+      <h3>大大师大</h3>
+    </div>
   )
 }
